@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bitcoincurso",
+  "private_key_id": "8b76dcc37ea018a99635bd782b92f1b77cd33f76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCjDsCceCaFzkod\nPKmduov8mKsVgsxRWK7XXonYZqCN+ZYiyJIL7yzQVvvbhy41sa26+5v4ed3yvtNZ\nljCdMwHRf/Cb0wxv0L99LXiZ6Np0Oazk3qYlfoCn6deoz2c/HTzQkd0OxDCXKnjM\nVp8rRJ3oFBf83zSmdVHpHxjNTxdQe62LV7+4qOaN9hPHbVai2Iv91tbagaVAuJi6\nmJJmtslTebFoMPsGh4sEY5ecXBmr/4Zt95SHfc1Ma/Bk+x1LvjQdw82NVTB+B1+X\nizOuReEIXx43QQlrj4gV/fl65oHtUlkCUfy5vknt2iMoGPR3S+KJhPXHgNtns7Lc\n7Kpa8cOhAgMBAAECggEAA2UYvIlB4BJR97beHzMVnA4/raR6BY2PoltNCmzkleAm\n8JV1ePsjVzkgaEsxupt27wgzEKLU7KttchWO8I7x0D9WLqBfx2o0unH6a1XuSnIy\n99bs5aXzHsvfGhwrXaSJshv/WsHZ8yPGvRZmnPuCQCU+9JxfF8IkkPJ9TTUC2sGX\n47Ey+tzwPN2jvGYvC1EwOHioE2fPkIX2iog16G5+YCiLBDe4YDom2UOS20iwkIWV\nHfJ0+9nX+UNDnPIg7ZiE/DBCBtSIvTOKuemSi6KTYx8ikgS473/YweYayP3Dcw/5\nAG9jmGT19+9htK+Ta/LqdRgkye/u+Ugawr0uN3JK2QKBgQDl80W77oun0X/AXPzK\nUOi3klFjbFRVpvksH8sZUlu1ceuTZQsB2bScpSuUdv2QSqYa0FUKZKwQ9skn1ATk\nZoV7WYtEqQYvf7T3VHn/goWlDWbCx8nVLopKViRj1rSsWUXP4QiRsql06CsETWme\nFQZbTVKe/xBNa0Zxx+z3oxkQ9QKBgQC1h4sudcv9M57U3M5FrtsvYhHfHAXq4fli\nkXful+RalU4bnkLZMlp36ME6zOZ95Wb/E0FeRS9jYqFmT4hlyXbmmWYtsdQyesBc\n630vEP48mZgTLM68H5sY1ku2pL+WkpAKmfGD1VpeeCgzApgNlbVdNSRiNlcORiUD\nwu2yCaUMfQKBgQC0sCEGmF5CwxsYY7j7nPIQdTfg4RmvqCG5a04jGpUXkWmkC0zH\n6nLCeAMziQCb5hx5i2SXYx3VwqWz1yT0+B5BG86UaCCFKFth0Y5/mOc9F7e8rFLL\nYeOmn+O+U9Lqbsetnk0md3Yyd9B9c/rfDfRNwAeBCjmcLARRmeB5gj5LFQKBgQCN\nVqrMktUwIQgS7pUAdoOcYfxOPdBxsF5vG5pIwCUBTmzRXijoWadM44HH2Y/BCGNo\nSULFNpMOC9ZlBZnKvtD//QIso9/3KdIqxwPiKJX68xAQJfwVR3qIHRo4bA/sGdNj\nHbeJEQ5ara2HAgcH1L+wgdcBTRP9PipFwnk1/QJwNQKBgQCRbBKo+XtJKmM8EVgo\nyDON0LmOZHgLz+Zax54o5BJteGIhwyvhzhqLLxu6NIn6mRsKIjHXwkeGvmwEEGXX\n58+O9Ys2KppC+fRllFHp0wwqLxPx7hsuOSWjKqLULhyUivl56v4CtMp62QySjIB+\nUlMzmSeWXdUKI25dkNWuBixnFQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ethereum@bitcoincurso.iam.gserviceaccount.com",
+  "client_id": "108251019546551322032",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ethereum%40bitcoincurso.iam.gserviceaccount.com"
+}
